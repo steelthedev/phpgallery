@@ -13,12 +13,6 @@
   
   
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
   </head>
   <body>
-  
-  <nav class="">
-  <label class="logo">I-Construct </label>
-  
- 
   
